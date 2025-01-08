@@ -1,0 +1,11 @@
+.story-text {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.dialogue::before {
+	content: "\""
+}
+
+.dialogue::after {
+	content: "\""
+}
