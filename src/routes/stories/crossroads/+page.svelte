@@ -4,6 +4,10 @@
 	import info from "./info.json"
 </script>
 
+<svelte:head>
+	<title>{info.title}</title>
+</svelte:head>
+
 {@html renderStory(text, info)}
 
 <div>
