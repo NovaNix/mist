@@ -11,11 +11,6 @@
 {@html renderStory(text, info)}
 
 <div>
-	<a href="./1">Act 1</a>
-	<a href="./3">Act 3</a>
-</div>
-
-<div>
 	<style>
 
 		body {
@@ -39,7 +34,7 @@
 			
 			opacity: 0.9;
 
-			text-shadow: 0 0 2px #F0F0ED;
+			/* text-shadow: 0 0 2px #F0F0ED; */
 		}
 
 		.speaker-faron {

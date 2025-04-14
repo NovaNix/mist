@@ -244,7 +244,7 @@ After waiting quite a while, longer than he felt he needed to wait, he sat up an
 
 Slowly and deliberately, he opened his door and slowly made his way down the hallway. Every creak of the boards below his feet echoed in his ears. His heart raced. He managed to make it down the stairs, and out the door. 
 
-The wind on the street put him at ease. He could relax a bit, as the stone ground made a much softer noise than the old planks of the inn. The fog was thick tonight, almost as thick as the night he came here. 
+It was slightly colder out than before. The sound from the wind on the street put him at ease. He could relax a bit, as the stone ground made a much softer noise than the old planks of the inn. The fog was thick tonight, almost as thick as the night he came here. 
 
 The village was just as maze-like as before. Nothing looked familiar. Every road and alley seemed exactly the same, yet at the same time completely unique. He tried to follow the path he had taken with Angela the day prior, but it almost felt as if the layout of the village had changed. It felt as if the village didn't want him to leave. 
 
@@ -254,7 +254,7 @@ A wave of relief washed over him. He was on the same path that he used to enter 
 
 It was smaller than when he first arrived, like if the forest was slowly consuming it. He placed down his bag, and pulled out his lantern. It was wrapped in cloth to stop it from squeaking. He unwrapped it, and lit the small flame inside. Its light started to illuminate the area around him. He held it up to the path before him. The trail seemed as dark as it was before, if not darker, like a light consuming void. 
 
-He looked at the trail, and then back at the soft orange light of the village. The light from the village was not unlike that from his lantern. The fog started to roll back in. He looked back at the trail, and then down at his lantern. Slowly, he reached his other hand to the lantern, and hesitantly turned it off. There was rustling at the trail. In the moonlight he could see that the entrance had disappeared.
+He looked at the trail, and then back at the soft orange light of the village. The light from the village was not unlike that from his lantern. The fog started to roll back in. He looked back at the trail. From his pocket, he pulled the notebook from before. He looked at its cover contemplatively, making glances back and forth between the trail and the town. Finally he reached his other hand to the lantern, and hesitantly turned it off. There was rustling at the trail. In the moonlight he could see that the entrance had disappeared.
 
 <!-- maybe consider adding line about rewrapping the lantern? -->
 He turned and slowly started to walk back to the village.  
