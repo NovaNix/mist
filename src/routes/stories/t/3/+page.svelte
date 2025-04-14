@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { renderStory } from "$lib/storybook";
-	import text from "./act2.md?raw"
+	import text from "./act3.md?raw"
 	import info from "./info.json"
 </script>
 
