@@ -30,7 +30,7 @@
 		}
 
 		.speaker-angela {
-			color: #F0F0ED;
+			color: #B8797D;
 			
 			opacity: 0.9;
 

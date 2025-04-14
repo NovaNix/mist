@@ -35,11 +35,11 @@
 		}
 
 		.speaker-angela {
-			color: #F0F0ED;
+			color: #d3acaf;
 			
 			opacity: 0.9;
 
-			text-shadow: 0 0 2px #F0F0ED;
+			text-shadow: 0 0 2px #d3acaf;
 		}
 
 		.speaker-faron {
