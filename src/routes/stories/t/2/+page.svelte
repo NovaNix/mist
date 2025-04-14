@@ -12,7 +12,7 @@
 
 <div>
 	<a href="./1">Act 1</a>
-	<a href="./3">Act 3</a>
+	<!-- <a href="./3">Act 3</a> -->
 </div>
 
 <div>
